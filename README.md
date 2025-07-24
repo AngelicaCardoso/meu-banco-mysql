@@ -1,0 +1,2 @@
+Trabalho realizado para a disciplina de Banco de dados co curso Análise e desenvolvimento de sistemas. O objetivo era elaborar um Modelo Entidade-Relacionamento (MER) de uma Rede de Hotéis contemplando os seguintes itens: Entidades; Atributos; Relacionamentos; Cardinalidades; Chaves primárias; Chaves estrangeiras. E Com base no Modelo Relacional dado e utilizando a Structured Query Language 
+(SQL), no MySQL Workbench, implementar um banco de dados de uma Locadora de Veículos.
